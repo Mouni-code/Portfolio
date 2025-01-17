@@ -1,0 +1,20 @@
+[
+	{
+		"dates": "2022 - Aujourd'hui",
+		"titre": "Préparation du diplôme d'ingénieur en double diplôme en systèmes numériques et Génie logiciel.",
+		"Ecole": "ENSEM Nancy & ENSEM Casablanca",
+		"endroit": "Casablanca & Nancy"
+	},
+    {
+		"dates": "2020- 2022",
+		"titre": "Classes préparatoires MP",
+		"Ecole": "ElbiliaSUP",
+		"endroit": "Casablanca"
+	},
+	{
+		"dates": "2020",
+		"titre": "Baccalauréat Sciences maths Option sciences de l'ingénieur.",
+		"Ecole": "Tazi II",
+		"endroit": "Casablanca"
+	}
+]

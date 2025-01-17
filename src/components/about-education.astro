@@ -1,0 +1,17 @@
+---
+const { dates, titre, Ecole, endroit } = Astro.props;
+---
+
+<div class="relative flex flex-col justify-start pl-12">
+
+  <p
+    class="text-xs uppercase text-neutral-400 dark:text-neutral-500 trackign-widest"
+  >
+    {dates}
+  </p>
+  <h3 class="my-1 text-lg font-bold dark:text-neutral-100">{titre}</h3>
+  <p class="mb-1 text-sm font-medium dark:text-neutral-300">{Ecole}</p>
+  <p class="text-sm font-light text-neutral-600 dark:text-neutral-400">
+    {endroit}
+  </p>
+</div>
